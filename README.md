@@ -6,9 +6,9 @@ Meu nome é Evelyn Schuster Ferreira
 - Estou me desenvolvendo na linguagem JavaScript 📚
 - Este espaço é dedicado ao compartilhmento dos projetos que desenvolvo 💻
 
-  ### Você pode acompanhar minha rede social 📱
+### Você pode acompanhar minha rede social
 
-  @evischuster_
+@evischuster_
 
 ![](https://tenor.com/search/vanellope+von+schweetz-gifs)
 
