@@ -1,6 +1,6 @@
 ### Bem-vindos ao meu perfil 🌻
 
-Meu nome é Evelyn Schuster Ferreira
+_Meu nome é Evelyn Schuster Ferreira_
 
 - Estou estudando na [Alura](https://www.alura.com.br) 👩‍🎓
 - Estou me desenvolvendo na linguagem JavaScript 📚
@@ -12,6 +12,8 @@ Meu nome é Evelyn Schuster Ferreira
 ![]()(https://www.instagram.com/evischuster_/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)].(https://www.instagram.com/evischuster/).
 
 ### Instagram da Alura: [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aluraonline/)
+
+
 
 ![](https://tenor.com/search/vanellope+von+schweetz-gifs)
 
